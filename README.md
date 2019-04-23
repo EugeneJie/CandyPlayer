@@ -1,5 +1,5 @@
 # CandyPlayer
-基于谷歌浏览器、腾讯视频全网搜和第三方视频解析接口的视频播放软软件
+## 基于谷歌浏览器、腾讯视频全网搜和第三方视频解析接口的视频播放软软件
 
 操作说明：
 
@@ -16,3 +16,8 @@
 6、除了通过搜索的方式将播放地址添加到地址栏，您还可以手动将播放地址插入到地址栏，支持各大主流视频网站的视频解析。注意：播放地址为视频网站上具体的某一视频的播放页面地址。
 
 7、本软件仅供学习和研究使用，`禁止用于商业用途`！本软件使用的是第三方视频解析接口，不收集和存储任何视频资源！
+
+# 界面展示
+![interface1](https://github.com/EugeneJie/CandyPlayer/blob/master/interfaces/interface1.PNG "界面1")
+
+![interface2](https://github.com/EugeneJie/CandyPlayer/blob/master/interfaces/interface2.PNG "界面2")
