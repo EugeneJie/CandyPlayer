@@ -1,4 +1,5 @@
 # CandyPlayer
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/EugeneJie/CandyPlayer/blob/master/LICENSE) 
 ## 基于谷歌浏览器、腾讯视频全网搜和第三方视频解析接口的视频播放软软件
 
 操作说明：
